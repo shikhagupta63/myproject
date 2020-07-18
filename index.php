@@ -1,7 +1,8 @@
 <h1>helloo Terraform</h1>
-
+<pre>
 <?php
-print `ifconfig`;
+echo `ifconfig`;
 
 ?>
+<pre>
 
